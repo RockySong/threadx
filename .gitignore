@@ -12,3 +12,8 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 
+*.pbi
+*.dep
+*.xcl
+ports_module/cortex-m7/iar/example_build/Debug
+ports_module/cortex-m7/iar/example_build
